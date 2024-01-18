@@ -1,0 +1,8 @@
+com\sid\playerservice\model\PlayerDto.class
+com\sid\playerservice\serviceImpl\PlayerServiceImpl.class
+com\sid\playerservice\PlayerServiceApplication.class
+com\sid\playerservice\service\PlayerService.class
+com\sid\playerservice\controller\PlayerController.class
+com\sid\playerservice\repository\PlayerRepository.class
+com\sid\playerservice\model\PlayerEto.class
+com\sid\playerservice\model\Player.class

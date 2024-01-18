@@ -1,0 +1,8 @@
+D:\system design\microservices\player-service\src\main\java\com\sid\playerservice\model\Player.java
+D:\system design\microservices\player-service\src\main\java\com\sid\playerservice\controller\PlayerController.java
+D:\system design\microservices\player-service\src\main\java\com\sid\playerservice\repository\PlayerRepository.java
+D:\system design\microservices\player-service\src\main\java\com\sid\playerservice\serviceImpl\PlayerServiceImpl.java
+D:\system design\microservices\player-service\src\main\java\com\sid\playerservice\service\PlayerService.java
+D:\system design\microservices\player-service\src\main\java\com\sid\playerservice\model\PlayerDto.java
+D:\system design\microservices\player-service\src\main\java\com\sid\playerservice\PlayerServiceApplication.java
+D:\system design\microservices\player-service\src\main\java\com\sid\playerservice\model\PlayerEto.java
